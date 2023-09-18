@@ -109,6 +109,16 @@
                                 Atribuicoes
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=interpolacao">
+                                Interpolacao
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
+                                Variaveis
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>

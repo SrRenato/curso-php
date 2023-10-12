@@ -129,6 +129,11 @@
                                 Valor Referencia
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=constantes">
+                                Constantates
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
